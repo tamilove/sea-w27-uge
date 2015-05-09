@@ -1,0 +1,6 @@
+pwd - print working directory, and kinda list all the files or folders in a directory
+cd - Change directory
+ls - to list things
+.. - to go back a folder
+mkdir - make a directory
+touch - to make a file name
